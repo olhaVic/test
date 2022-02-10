@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.alert {
+  font-size: 20px;
+  font-weight: 500;
+}
+
+.success {
+  color: green;
+}
+
+.warning {
+  color: orange;
+}
+
+.error {
+  color: red;
+}
+.menu li {
+  color: blue;
+}
+.submenu > li {
+  border: 1px solid palevioletred;
+}
+a[target="_blank"] {
+  color: orange;
+}
