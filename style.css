@@ -28,3 +28,9 @@ body {
 a[target="_blank"] {
   color: orange;
 }
+a {
+  text-decoration: none;
+}
+ul {
+  list-style: none;
+}
