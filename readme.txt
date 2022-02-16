@@ -4,3 +4,5 @@ author Olha <olhasvet@gmail.com> 1645004508 +0200
 committer Olha <olhasvet@gmail.com> 1645004508 +0200
 
 first commit
+[master 1435948] second commit
+ 1 file changed, 6 insertions(+)
